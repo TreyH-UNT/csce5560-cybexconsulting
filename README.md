@@ -6,3 +6,4 @@ The security settings folder shows the main security settings that were set for 
 The security testing folder includes the vulnerability scan and exploit test results.
 The website design folder includes visuals of the different website pages and chatbot box.
 The website structure folder includes the data flow diagram for the website, plugin settings, menu structure, plugins list, and theme settings.
+The website XML folder includes the entire wordpress site XML export file.
